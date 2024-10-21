@@ -1,2 +1,2 @@
-név:
-osztály:
+név:Erdős Dániel
+osztály: 9.F
